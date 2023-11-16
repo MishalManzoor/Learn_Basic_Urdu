@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Learn Basic Urdu</string>
+    <string name="phrases">Phrases</string>
+    <string name="numbers">Numbers</string>
+    <string name="colors">Colors</string>
+    <string name="family_members">Family Members</string>
+    <string name="family">family</string>
+    <string name="todo">TODO</string>
+    <string name="image">image</string>
+    <color name="tan_background">#FFF7DA</color>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
